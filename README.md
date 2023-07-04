@@ -1,12 +1,16 @@
 # W11x64.bat
 Win11 Fix on "Unsupported PC", "No TPM", "Unsupported CPU" x64 Hardware only. 
 
-# information:
+# How to Fix Error!:
 - copy or download the above code.txt file.
 - open text editor, paste the code.
 - now after that save file as "win11x64.cmd" so that a batch file is created aside.
+  ![batch](./doc/batch.png)
 - now run that batch file as "admin" thats it, as it shows "Skip TPM Check on Dynamic Update V10  INSTALLED  run again to install", enter..
-- now go to your setup dir./ and load the setup file (works for 11 only) wait untill it shows "getting things ready.." means Problem Fixed!
+  ![shot](./doc/shot.png)
+- now go to your setup dir./ and load the setup file (works for 11 only) wait untill it shows "getting few things ready.." means Problem Fixed!
+  ![getstarted](./doc/getstarted.png)
+
 
 # minimum working requirements:
 - based on win11 x64 22h2 version.
