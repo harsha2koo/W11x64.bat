@@ -29,3 +29,12 @@ Win11 Fix on "Unsupported PC", "No TPM", "Unsupported CPU" x64 Hardware only.
 - Graphics card Compatible with DirectX 12 or later with WDDM 2.0 driver.
 - 1280x720 or higher, 8bit color.
 - Internet connection and Microsoft accountWindows 11 Home edition requires internet connectivity and a Microsoft account. Switching a device out of Windows 11 Home in S mode also requires internet connectivity. Learn more about S mode here. For all Windows 11 editions, internet access is required to perform updates and to download and take advantage of some features. A Microsoft account is required for some features.
+
+# Win 11 Tested on Unsupported PCs Source.
+1. Win11 on Very Oldest Pentium D (65nm) x64 based PC from 2006 Tested [win11_pentiumD](https://youtu.be/pPW52VAtSVU)
+2. win11 on pentium 4 (1 core) 90nm x64 [win11 on pentium4](https://youtu.be/Z0nYgME8knY)
+3. win11 on unsupported pc intel 7th gen or lower Fix [windows 11 Fix on unsupported pc (2021)](https://youtu.be/D5RJGX14CGA)
+
+# Other sources:
+1. improve performance, HDD/SSD drive disk slow down Fix [win11_perf](https://youtu.be/lIz6i3NsvDg)
+2. Fix GRUB boot loader error [Fix grub boot/remove](https://youtu.be/O6rJG27r2Jw)
