@@ -2,7 +2,10 @@
 Win11 Fix on "Unsupported PC", "No TPM", "Unsupported CPU" x64 Hardware only. 
 
 # information:
-copy the code of file, open text editor, paste the code. after that save file as "win11x64.cmd" so that a batch file is created aside. now run that batch file as "admin" thats it. now go to your setup dir./ click on setup file. wait untill it shows "getting things ready.." Problem Fixed!
+- copy the code of file, open text editor.
+- paste the code. after that save file as "win11x64.cmd" so that a batch file is created aside.
+- now run that batch file as "admin" thats it.
+- now go to your setup dir./ click on setup file. wait untill it shows "getting things ready.." Problem Fixed!
 
 # minimum working requirements:
 - based on win11 x64 22h2 version.
